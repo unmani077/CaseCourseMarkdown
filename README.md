@@ -7,32 +7,6 @@
 
 # Communicate using Markdown
 
-# _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
-
-<!--
-  <<< Author notes: Start of the course >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
--->
-
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
-
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [x] Introduce myself to the world
-
 <details id=0>
 <summary><h2>Welcome</h2></summary>
 
